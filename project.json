@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/GyverLibs/testota/main/bin/v1.bin",
+          "path": "https://raw.githubusercontent.com/Boriss071/Dacha/main/bin/v1.bin",
           "offset": 0
         }
       ]
